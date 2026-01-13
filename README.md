@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <br><br><br><br><br><br><br><br><br>manar Trimeche and I'm a Data Engineering Student, from Tunisia</p>
+<p align="left">My name is Manar Trimeche and I'm a Data Engineering Student, from Tunisia</p>
 
 ###
 
